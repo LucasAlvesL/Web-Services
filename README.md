@@ -1,8 +1,9 @@
-# Java: consuming an API, writing files and dealing with errors
+# Java: consumindo uma API, gravando arquivos e lidando com erros
+Projeto desenvolvido no quarto curso da formação Java da Alura
 
-## 🔨 Project Objectives
-- Learn how to consume an HTTP API in Java.
-- Understand how to receive and convert data in JSON format.
-- Use GSON external library to serialize and deserialize data.
-- Dealing with errors and handling exceptions.
-- Know the java.io package for manipulating files.
+## 🔨 Objetivos do projeto
+Aprender a consumir uma API HTTP em Java;
+Entender como receber e converter dados no formato JSON;
+Utilizar a biblioteca externa GSON para fazer serialização e desserialização de dados;
+Lidar com erros e tratar exceções;
+Conhecer o pacote java.io para manipulação de arquivos.
